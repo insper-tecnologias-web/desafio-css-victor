@@ -181,22 +181,22 @@ body {
 }
 /*********************Rotação dos Post-its*********************/
 .card-rotation-1{
-  transform: rotate(-9deg);
+  transform: rotate(-5deg);
 }
 
 .card-rotation-2{
-  transform: rotate(-7.2deg);
+  transform: rotate(-4deg);
 }
 
 .card-rotation-3{
-  transform: rotate(-5.4deg);
+  transform: rotate(-3deg);
 }
 
 .card-rotation-4{
-  transform: rotate(-3.6deg);
+  transform: rotate(-2deg);
 }
 .card-rotation-5{
-  transform: rotate(-1.8deg);
+  transform: rotate(-1deg);
 }
 
 .card-rotation-6{
@@ -204,21 +204,21 @@ body {
 }
 
 .card-rotation-7{
-  transform: rotate(1.8deg);
+  transform: rotate(1deg);
 }
 
 .card-rotation-8{
-  transform: rotate(3.6deg);
+  transform: rotate(2deg);
 }
 
 .card-rotation-9{
-  transform: rotate(5.4deg);
+  transform: rotate(3deg);
 }
 
 .card-rotation-10{
-  transform: rotate(7.2deg);
+  transform: rotate(4deg);
 }
 
 .card-rotation-11{
-  transform: rotate(9deg);
+  transform: rotate(5deg);
 }
